@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  font-family: "Rubik", sans-serif;
+  text-decoration: none;
+  color: #000;
+}
+
+nav {
+  width: 1280px;
+  height: 76px;
+  margin: 16px auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav > .logo {
+  width: 129px;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav > .menu {
+  width: 440px;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.auth-buttons {
+  width: 250px;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.auth-buttons > .btn {
+  border-radius: 40px;
+  padding: 8px 32px;
+}
+
+.auth-buttons > .sign-up {
+  border: 2px solid #f53855;
+}
