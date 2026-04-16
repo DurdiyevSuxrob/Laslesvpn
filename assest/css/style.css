@@ -124,9 +124,83 @@ nav > .menu {
 .w {
   width: 350px;
   height: 295px;
-  border: 1px solid red;
   margin-top: 45px;
 }
 .i{
   font-size: 12px;
 }
+.text3 {
+  width: 390px;
+  height: 250px;
+  margin-top: 45px;
+}
+.text {
+  width: 1000px;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  gap: 1px;
+}
+.text4 {
+  width: 530px;
+  height: 180px;
+  margin: auto;
+  margin-top: 150px;
+  text-align: center;
+}
+.b {
+  font-size: 15px;
+}
+.sss img {
+  width: 100px;
+  height: 80px;
+  margin: 90px;
+}
+.sss {
+  width: 970px;
+  height: 750px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.sss1 {
+  border: 3px solid red;
+  width: 300px;
+  height: 400pxpx;
+  border-radius: 15px;
+}
+.sss1 h3 {
+  text-align: center;
+}
+.a {
+  font-size: 13px;
+}
+.qart {
+  margin: 90px;
+}
+.rrr {
+  border: 3px solid red;
+  width: 140px;
+  height: 40px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 6px;
+  color: red;
+  margin-top: 2px;
+  display: flex;
+  justify-content: space-around;
+}
+.qart {
+  margin-top: 15px;
+}
+
+
+
+
+
+  
+
+
+
+
