@@ -103,8 +103,8 @@ nav > .menu {
 }
 
 .status-container > .stat-box {
-  border-left:2px solid rgb(0, 0, 0, 0.1);
-  border-right:2px solid rgb(0, 0, 0, 0.1);
+  border-left: 2px solid rgb(0, 0, 0, 0.1);
+  border-right: 2px solid rgb(0, 0, 0, 0.1);
   width: 384px;
   height: 104px;
   display: flex;
@@ -120,4 +120,9 @@ nav > .menu {
 
 .status-container .box-in img {
   padding-right: 20px;
+}
+.text img {
+  width: 250px;
+  height: 195px;
+  margin: 30px;
 }
