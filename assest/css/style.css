@@ -165,7 +165,7 @@ nav > .menu {
   justify-content: space-around;
 }
 .sss1 {
-  border: 3px solid red;
+  border: 3px solid rgb(45, 36, 36);
   width: 300px;
   height: 400pxpx;
   border-radius: 15px;
@@ -176,24 +176,224 @@ nav > .menu {
 .a {
   font-size: 13px;
 }
-.qart {
-  margin: 90px;
-}
 .rrr {
-  border: 3px solid red;
-  width: 140px;
-  height: 40px;
-  border-radius: 20px;
+  width: 200px;
+  height: 100px;
+  margin: auto;
   text-align: center;
-  padding: 6px;
+  margin-top: 70px;
+}
+.uuu {
+  border: 3px solid red;
+  width: 120px;
+  height: 35px;
+  margin: auto;
+  padding: 5px;
+  border-radius: 20px;
   color: red;
-  margin-top: 2px;
+}
+.sss3 {
+  border: 3px solid red;
+  border-radius: 20px;
+}
+.sss3 .x {
+  text-align: center;
+}
+
+.z {
+  text-align: center;
+}
+.www {
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  margin-top: 35px;
+  color: red;
+}
+.f {
+  font-size: 17px;
+}
+.h {
+  border: 3px solid red;
+  width: 120px;
+  height: 35px;
+  margin: auto;
+  text-align: center;
+  padding: 5px;
+  border-radius: 20px;
+}
+.fff {
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  text-align: center;
+  margin-top: 35px;
+}
+.n {
+  border: 3px solid red;
+  width: 120px;
+  height: 35px;
+  margin: auto;
+  padding: 5px;
+  border-radius: 20px;
+  background-color: red;
+}
+.sd {
+  color: aliceblue;
+}
+.sf {
+  color: red;
+}
+.sss2 {
+  text-align: center;
+}
+ .text i {
+  color: chartreuse;
+  background-color: green;
+  border-radius: 5px;
+}
+.vvv {
+  text-align: center;
+}
+.ddd {
+  text-align: center;
+}
+.main-3 {
+  width: 1152px;
+  height: 740px;
+  margin: auto;
+  padding: 20px;
+  margin-top: 50px;
+
+}
+
+.main-3 .h5 {
+  width: 384px;
+  height: 150px;
+  margin: auto;
+  text-align: center;
+}
+
+.main-3 .h5 h5 {
+  font-size: 35px;
+  font-weight: 300;
+}
+
+.main-3 .h5 p {
+  color: gray;
+}
+
+.main-3 .box4 {
+  width: 1088px;
+  height: 553px;
+  margin: auto;
+  padding: 30px;
+}
+
+.main-3 .box4 img {
+  width: 1000px;
+  height: 553px;
+}
+
+/* ======main-4===== */
+/* ================= */
+.main-4 {
+  width: 1152px;
+  height: 80px;
+  margin: auto;
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
 }
-.qart {
-  margin-top: 15px;
+
+.main-4 div img {
+  width: 165px;
+  height: 56px;
 }
+footer {
+  width: 1286px;
+  height: 344px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.birinchi {
+  width: 373px;
+  height: 244px;
+}
+
+.birinchi .img1 {
+  width: 132px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.birinchi .img1 img {
+  width: 40px;
+  margin-right: 5px;
+}
+
+.birinchi small {
+  color: gray;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+.birinchi .i i {
+  font-size: 25px;
+  background-color: white;
+  box-shadow: 0px 0px 2px 2px rgb(0, 0, 0, 0.1);
+  padding: 2px 2px 5px 2px;
+  border-radius: 50%;
+  color: #f53855;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+.ikkinchi {
+  width: 179px;
+  height: 244px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.ikkinchi p {
+  color: gray;
+}
+
+.ikkinchi .p1 {
+  color: gray;
+  font-weight: 800;
+}
+
+.uchinchi {
+  width: 179px;
+  height: 244px;
+}
+
+.uchinchi .p2 {
+  color: gray;
+  margin-top: 10px;
+
+}
+
+.uchinchi .p1 {
+  font-weight: 800;
+  padding-top: 7px;
+  margin-bottom: 15px;
+  color: gray;
+}
+
+
+
 
 
 
